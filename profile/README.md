@@ -9,14 +9,15 @@ You can work on several topics here:
 - do hitchhiking **research**
 
 Please let us know what applies to you :)
+To join see [here](https://github.com/orgs/Hitchwiki/discussions/199).
+
+# Questions
+Join [Discussions](https://github.com/orgs/Hitchwiki/discussions).
 
 # Contact
 
-To join the organization you can reach out to:
+The following people take care of the organization:
 - https://github.com/guaka
 - https://github.com/tillwenke
 - https://github.com/robokow
 - https://github.com/bopjesvla/
-
-# Questions
-Join [Discussions](https://github.com/orgs/Hitchwiki/discussions).
