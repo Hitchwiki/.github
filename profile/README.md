@@ -4,7 +4,7 @@ Code and other resources of the hitchhiking community.
 
 To join the organization you can reach out to:
 - https://github.com/guaka
-- @tillwenke
+- https://github.com/tillwenke
 - https://github.com/robokow
 - https://github.com/bopjesvla/
 
