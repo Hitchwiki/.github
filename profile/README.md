@@ -5,7 +5,7 @@ Code and other resources of the hitchhiking community.
 You can work on several topics here:
 - generally **volunteer** for the hitchwiki community
 - be a **developer** on [Hitchwiki](https://hitchwiki.org/en/Main_Page)
-- work on the [**Hitchmap**](https://hitchmap.com/).
+- work on the [**Hitchmap**](https://hitchmap.com/)
 - do hitchhiking **research**
 
 Please let us know what applies to you :)
