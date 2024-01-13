@@ -3,7 +3,7 @@ Code and other resources of the hitchhiking community.
 # Join
 
 You can work on several topics here:
-- generally **volunteer** for the hitchwiki community
+- generally **volunteer** for the Hitchwiki community
 - be a **developer** on [Hitchwiki](https://hitchwiki.org/en/Main_Page)
 - work on the [**Hitchmap**](https://hitchmap.com/)
 - do hitchhiking **research**
