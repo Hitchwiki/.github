@@ -14,6 +14,9 @@ To join see [here](https://github.com/orgs/Hitchwiki/discussions/199).
 # Questions
 Join [Discussions](https://github.com/orgs/Hitchwiki/discussions).
 
+# Getting familiar with the organization
+See: [Project description](https://github.com/orgs/Hitchwiki/projects/1/views/1?pane=info&statusUpdateId=2918)
+
 # Contact
 
 The following people take care of the organization:
