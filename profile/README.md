@@ -1,4 +1,7 @@
 Code and other resources of the hitchhiking community.
+Besides the repos in this org there are:
+* [Hitchmap](https://github.com/bopjesvla/hitch)
+* [Hitchlog](https://github.com/flov/hitchlog-nextjs)
 
 # Join
 
