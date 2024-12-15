@@ -9,7 +9,7 @@ You can work on several topics here:
 - generally **volunteer** for the Hitchwiki community
 - be a **developer** on [Hitchwiki](https://hitchwiki.org/en/Main_Page)
 - work on the [**Hitchmap**](https://hitchmap.com/)
-- do hitchhiking **research**
+- do and collect hitchhiking **research**
 
 Please let us know what applies to you :)
 To join see [here](https://github.com/orgs/Hitchwiki/discussions/199).
