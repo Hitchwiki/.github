@@ -1,4 +1,5 @@
-Code and other resources of the hitchhiking community.
+Code and other resources of the hitchhiking community. Datasets are stored in the corresponding [Huggingface organization](https://huggingface.co/Hitchwiki).
+
 Besides the repos in this org there are:
 * [Hitchmap](https://github.com/bopjesvla/hitch)
 * [Hitchlog](https://github.com/flov/hitchlog-nextjs)
@@ -26,4 +27,3 @@ The following people take care of the organization:
 - https://github.com/guaka
 - https://github.com/tillwenke
 - https://github.com/robokow
-- https://github.com/bopjesvla/
